@@ -1,0 +1,4 @@
+flask
+requests
+ollama
+httpx  # Required by Ollama Client for HTTP requests
